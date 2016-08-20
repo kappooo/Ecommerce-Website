@@ -1,0 +1,582 @@
+
+@media (min-width:1300px)
+{
+    
+     .dropdown:hover .dropdown-menu {
+    display: block;
+}
+}
+@media (min-width:1200px)and (max-width:1299px){
+
+    .navbar-brand{
+        margin-left: 50px !important;
+    }
+    
+   
+ 
+    .dropdown:hover .dropdown-menu {
+    display: block;
+}
+}
+@media(max-width:1060px)
+{ .compare .item_1 .find .btn-danger{
+        display: block;
+        margin-top: 5px;
+    }
+    
+}
+@media(max-width:1199px)
+{ .compare .item_1 .modal_1 img {
+    display: block;
+     float: none; 
+    margin: 0 auto;
+}
+.compare .item_1 .modal_1 ul li a{
+    font-size: 16px;
+}
+.f_table{margin-top: 20px;}
+    
+}
+@media (min-width:992px)and (max-width:1199px){
+ 
+
+    
+    .form-comment{
+         width: 90%;
+    margin: 0 auto;
+    }
+  .navbar-header {
+    margin-left: 32px !important;
+}
+     .navbar-brand{
+        margin-left: 50px !important;
+        
+    }
+    .get_form {
+     
+margin-left: -72px;
+    }
+    #search{
+        width: 170px;
+    }
+    .navbar-right{
+        margin-right: 10px;
+    }
+   
+    
+    .nav > li > a{
+        padding: 10px 0;
+        margin-left: 17px;
+    }
+    .navbar-nav > li > .dropdown-menu {
+    margin-top: 6px;
+}
+.company{
+    width: 500px;
+    top: 58px;
+}
+    
+    
+    .contact_us .input-lg{
+        width:344px;
+        height: 40px;
+    } 
+    .form-group .area{
+        width:344px;
+        height: 70px;
+    }
+    .form-group button{
+        width:344px;
+    }
+    
+    .deal .more_deals{
+        height: 62px;
+    }
+    .deal .more_deals img{
+        width:105px
+    }
+    
+    .deal .more_deals h5{
+        left: 122px;
+        top: -30px;
+        }
+    .deal .more_deals h4{
+        left: 203px;
+        top: -57px;
+    }
+    .deal .more_deals h6{
+    top: -90px;
+    left: 298px;
+    width: 66px;
+    padding: 10px 3px;
+    font-weight: normal;
+    }
+    .dropdown:hover .dropdown-menu {
+    display: block;
+}
+    .deal .one_deal{height: 62px;}
+    .deal .one_deal img{height: 56px;margin-top: 3px;}
+    
+   
+    .deal .one_deal h6{
+   
+    width: 66px;
+    padding: 10px 3px;
+    font-weight: normal;
+    }
+   
+    
+    .specification .produ_specific{
+        margin-left: 27px;
+    }
+    
+}
+
+@media(max-width:992px )and (min-width:768px){
+       .fe{ margin-left: -15px !important;}
+    .spe,.rating{
+        width: 210px !important;
+    }
+ 
+     .form-comment{
+         width: 90%;
+    margin: 0 auto;
+    }
+    .navbar-header {
+    margin-left: -2px !important;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.company{
+    width: 400px;
+    left: -160px;
+    top: 57px;
+}
+#search{
+    width: 140px;
+}
+    
+    .navbar .pro{
+        font-size: 10px;
+        top: 17px;
+        right: 158px;
+        color: #C12E2A;
+        padding: 5px;
+    }
+    .navbar > .container .navbar-brand{    
+margin-left: 37px !important;
+     
+line-height: 17px;
+     
+font-size: 20px;
+    }
+    .get_form {
+     margin-top: 17px;
+     margin-left: -77px;
+    }
+    .get_form .btn{
+        font-size: 13px;
+        padding: 7px 3px;
+        width: auto;
+    }
+    .navbar-right{
+    margin-right:5px ;
+    }
+   
+    
+    .nav > li > a{
+        padding: 10px 0;
+        margin-left: 11px;
+        font-weight: normal;
+    }
+    .username img{width: 35px;height: 35px;}
+    
+    
+    .contact_us .input-lg{
+        width:344px;
+        height: 40px;
+    } 
+    .form-group .area{
+        width:344px;
+        height: 70px;
+    }
+    .form-group button{
+        width:344px;
+    }
+    .adv_ser{
+        font-size: 13px;
+    }
+    .adv_ser h3{
+        font-size: 16px;
+        font-weight: bolder;
+    }
+    .adv_ser label{
+        font-size: 13px;
+    }
+    
+     
+    .specification .produ_specific{
+        margin-left: 22px;
+        font-size: 15px;
+    }
+    .related_pro .caption p{
+        margin-top: 50px;
+    }
+   
+   
+}
+@media(max-width:992px )and (min-width:991px)
+{.carousel-control{  margin-top: 141px!important;}}
+@media(max-width:767px)
+{
+    .find 
+    {
+        width: 300px;
+    }
+    .f_table table th{width: auto !important;}
+      .compare .item_1 .modal_1 img{
+            width: 106px;
+    height: 126px;
+    }
+    .compare .item_1 .modal_1 ul li a{
+        font-size: 14px;
+    }
+    .compare .item_1 .modal_1 .no_device {
+    font-size: 190px;
+    margin-left: 39px;
+    }
+    .fe{margin-left: -40px!important}
+    .title h3{
+        font-size: 16px!important;
+    }
+    .total .col-sm-offset-8{
+       margin-left: 30px;
+    }
+    .h2sp{text-align: center;margin: 0 !important;}
+     .form-comment{
+         width: 90%;
+    margin: 0 auto;
+     float:none;
+    }
+    
+    .specification .comment h4{
+        font-size: 14px;
+    }
+    .specification .comment h3{
+        font-size: 15px;
+    }
+    .account_setting .setting .btn-primary{
+        left:  5px;
+    }
+    .our_offers{
+        margin-top: 150px;
+    }
+    .pro
+    #result {
+    width:60%;
+    top: 161px;
+    left: 96px;
+}
+    .navbar-inverse .navbar-toggle{
+        top:5px;
+    }
+    .navbar > .container .navbar-brand{
+        font-size: 20px;
+        margin-left: 20px;
+    }
+    .navbar > .container .navbar-brand{
+        margin-left: -15px;
+        margin-top: -1px;
+    }
+    .navbar .pro{
+        font-size: 9px;
+        right: 168px;
+        top: 22px;
+    }
+    .get_form{
+        width: 85%;
+        margin-left: -5px;
+    }
+    #search{
+        margin-bottom: 10px;
+    }
+    .navbar-nav{
+        margin-left: 2px;
+    }
+    .navbar-inverse .navbar-nav > .active > a{
+        height: auto;
+    }
+    .navbar-nav > li > a{
+        line-height: 14px;
+    }
+    
+
+
+.fe:first-child{
+    margin-left: -54px;
+}
+ .specification .produ_specific{
+        margin-left: 20px;
+    }
+ 
+}
+
+@media(max-width:628px)
+{
+  
+    .wishlist .fott_wish a{
+        padding: 8px;
+        font-size: 14px;
+        margin-top: 5px
+    }
+   
+    .fe:first-child{
+    margin-left: -20px;}
+    .specification .produ_specific{
+        font-size: 13px;
+        margin-left: 14px;
+    }
+     .account .profil_header img{
+        width: 120px;
+        height: 130px;
+    }
+    .profil_header .btn {
+    font-size: 11px;
+ 
+    left: -110px;
+    top: -12px;
+}
+.specification .table1{
+        margin-left: 0;
+    }
+   .form-comment{
+        margin-left: 10px !important;
+    }
+}
+@media(max-width:505px)
+{
+    
+    .fe{
+        margin: 0 auto !important;
+        text-align: center;
+    }
+    .specification .produ_specific {
+   
+width: 100px;
+   
+display: block;
+   
+margin-bottom: 10px;
+}
+    .support .call_u h3{
+    font-size: 16px;}
+.support .call_u .chat{
+    width: 94px;
+    height: 94px;
+}
+.support .call_u .chat span{
+    margin-top: 28px;
+    font-size: 35px;
+    }
+    .support_service{
+        width: 90%;
+    }
+    .support_service .follow_us ul{
+        margin-left: 0; 
+    margin-top: -23px;
+   
+    }
+    .support_service .chat{
+        width: 90px;
+        height: 90px;
+    }
+    .support_service .chat span {
+    margin-top: 23px;
+    margin-left: 25px;}
+    .support_service .follow_us img{
+        width: 30px;height: 30px;
+    }
+     
+     .circle{
+        width: 150px;
+        height: 150px;
+    }
+    .circle h3{
+        font-size: 20px;
+    }
+   
+}
+@media(max-width:395px)
+{
+    .specification .comments .post{
+        float: none;
+        width: 70%;
+        margin:  10px auto;
+        
+    }
+    #btn_get_div
+    {
+        right: 12px;
+        width: 85%;
+        height: 50px;
+    }
+    .chat-window{
+         right: -12px;
+         width: 100%;
+    }
+    #mins{
+        right: 31px;
+    }
+    
+    #section{
+        
+        right: 12px;
+        width: 85%;
+        top:250px !important;
+    }
+    #section input[type='text'], #section input[type='submit']{width: 85% !important;
+    margin: 0 auto;}
+    #section .chatimg{
+        display: none;
+    }
+    .total .process_check{
+        font-size: 14px;
+    }
+    .total .col-sm-offset-8{
+       margin-left: 15px;
+    }
+    .cart_total td {
+    padding-right: 62px;
+    font-size: 15px;
+    padding-left: 11px;
+}
+.cart_total{
+    width: 95%;
+    margin:  0 auto;
+}
+.cart_total th {
+    padding-left: 15px;
+    font-size: 18px;
+}
+     .check_out img{
+        display: none;
+    }
+    .check_out .item .table-responsive{
+        width: 95%;margin: 0 auto;
+    }
+     .msg_cart{font-size: 17px;}
+    .check_out .item .table-responsive th{
+        font-size: 11px;
+    }
+    .check_out .item .table-responsive td,.check_out .item .table-responsive th{
+        padding-left: 7px !important;
+    }
+    .check_out td a{
+        font-size: 11px;
+    }
+    .check_out p{font-size: 11px;}
+     .h2sp{text-align: left;margin: 0 !important;}
+     
+     .specification .comment .sty_user{
+        font-size: 42px;
+    }
+     .inp_up{
+        width: 180px;
+    }
+    .login{
+        width: 90%;
+    }
+   
+    .account .profil_header img{
+        width: 110px;
+        height: 120px;
+        margin-left: -9px;
+    }
+    .profil_header .btn {
+    font-size: 11px;
+    left: -107px;
+    top: -13px;
+}
+.account .profil_header h2{
+    font-size: 22px;
+}
+}
+@media(max-width:316px)
+{
+    .testimonial .carousel-indicators li, .testimonial .carousel-indicators li.active,
+    .testimonial .carousel-indicators li img
+	{
+		width: 50px;!important
+		height:40px !important;
+		height: 50px;
+		}
+ .testimonial .carousel-indicators li{}
+    .rating{
+        width: 90%;
+    }
+    .specification .comment .sty_user{
+        font-size: 32px;
+    }
+    .specification .comment h3{
+        font-size: 13px;
+    }
+      .navbar > .container .navbar-brand
+      {
+      position: relative;
+      font-size: 16px;
+      right: -110px;
+      margin-top: 0;
+      }
+      .navbar-header{
+         margin-left: -18px !important;
+      }
+           .navbar .pro{
+               right: 72px;
+           }
+           .our_offers .product{
+        width: 90%;
+            }
+.our_offers .product .fa-bookmark:before{
+    left: -26px;
+}
+.our_offers .product .sal_val{
+    left:-41px;
+}
+
+
+    .testimonial h2{
+        font-size: 16px;
+    }
+    .our_offers .product img{
+        width: 99px;
+    height: 130px
+    }
+    .product .list-unstyled li{left: 80px !important}
+    .support .call_u .desc{
+        font-size: 14px;
+    }
+    
+   .profil_header .btn {
+  
+    left: -105px;
+    top: -9px;
+    padding: 3px;
+}
+}
+@media(max-width:310px){
+    .check_out .item .table-responsive td, .check_out .item .table-responsive th{padding-left: 2px !important;}
+     .check_out .item .table-responsive td:first-child,.check_out .item .table-responsive th:first-child{
+        padding-left: 5px !important;
+    }
+   
+}
+@media(max-width:302px){
+    
+    .profil_header .btn{
+        left: -4px;
+    top: -105px;
+    }
+    
+}
